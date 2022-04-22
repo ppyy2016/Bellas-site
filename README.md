@@ -1,2 +1,2 @@
 # web-development
-exercise project for learning web development 
+Exercise project for learning web development 
