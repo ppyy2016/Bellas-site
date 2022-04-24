@@ -1,0 +1,31 @@
+body{
+    background-color: #E3BEC6;
+}
+
+h1{
+    color: #1572A1;
+}
+h3{
+    color: #1572A1;
+}
+
+hr{
+    background-color: transparent;
+    border-style: dotted none none none;
+    border-color: #1572A1;
+    border-width: 7px;
+    width: 50%;
+
+}
+
+img:hover{
+    background-color: orange;
+}
+
+.fish{  
+    background-color: red;
+}
+
+#cabbage{
+    background-color: black;
+}
